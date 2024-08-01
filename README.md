@@ -26,15 +26,15 @@
 
 ### directory
 
-Dacon_fake_voice_detection
-|
-├─classification_model
-  ├─best_classification_model.ipynb
-  ├─daycon_base_line.ipynb
-  ├─mixup_with_original.ipynb
-  ├─randomforest_multilabel.ipynb
-  └─randomforest.ipynb
-└─util
-  ├─ensemble.ipynb
-  ├─preprocessing.ipynb
-  └─util.ipynb
+Dacon_fake_voice_detection \
+| \
+├─classification_model \
+  ├─best_classification_model.ipynb \
+  ├─daycon_base_line.ipynb \
+  ├─mixup_with_original.ipynb \
+  ├─randomforest_multilabel.ipynb \
+  └─randomforest.ipynb \
+└─util \
+  ├─ensemble.ipynb \
+  ├─preprocessing.ipynb \
+  └─util.ipynb \
